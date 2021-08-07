@@ -19,6 +19,7 @@
 - `plots`: Output and save all figures here.
 - `code`: Keep all python scripts in this folder.
 - `report`: the report of the project
+- `code`: All Python scripts in this folder. 
 - `deprecated`: A folder to store "old code" that **you do not use anymore** or code that you experimented with, but decided to not go ahead. This is useful in case you ever need to come back to an older iteration of code or to express your other approaches to the problem.
 
 # Other
